@@ -14,6 +14,11 @@ public class App {
         System.out.println(Player.getTotalPlayers());
         jeff.thisIsAMethod();
         System.out.println(Player.getTotalPlayers());
+<<<<<<< HEAD
         //Sup
+=======
+    //kalebwashere
+>>>>>>> 131886973af988c9bf85a56cccc1b00aaaee99cb
     }
+
 }
